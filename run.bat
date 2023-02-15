@@ -1,0 +1,1 @@
+java -cp bin BookKeeper "C:\\Users\\User1\\Documents\\Transactions\\data" "AXAPP,HISCOX,ACCOUNTANT,CURRYS,Software licence"
