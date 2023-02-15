@@ -13,7 +13,7 @@ public class BookKeeper {
 	
 
 	public static void main(String[] args) throws Exception {
-		System.out.println("running bookkeeper");
+		System.out.println("running bookkeeper.");
 		enableTest = true;
 		
 		BookKeeper bookKeeper = new BookKeeper();
